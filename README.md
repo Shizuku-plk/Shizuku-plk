@@ -5,7 +5,9 @@
 As a Web Designer, my objective is to make a positive impact on clients, co-workers, and the internet by using my skills and experience to design attractive and compelling websites. 
 
 ## Skills: 
-* 💻 HTML / CSS / JavaScript
+* 💻 HTML 
+* 🎨 CSS 
+* 💻 JavaScript
 
 ## 🔭 I’m currently working on:
 https://github.com/Shizuku-plk/ee-tree-service 
