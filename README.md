@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Esteban
 ## Web Development / Web Design
-![Web Development / Web Design](https://media-exp1.licdn.com/dms/image/C4D16AQEJcVXaTowUGg/profile-displaybackgroundimage-shrink_200_800/0/1647890392247?e=1653523200&v=beta&t=5VDL_ZrfB85kGPh8OJbhfBM1St_ih5cNMblMeu7FEu4)
+![Web Development](https://media-exp1.licdn.com/dms/image/C4D16AQEJcVXaTowUGg/profile-displaybackgroundimage-shrink_200_800/0/1647890392247?e=1653523200&v=beta&t=5VDL_ZrfB85kGPh8OJbhfBM1St_ih5cNMblMeu7FEu4)
 
 As a Web Designer, my objective is to make a positive impact on clients, co-workers, and the internet by using my skills and experience to design attractive and compelling websites. 
 
