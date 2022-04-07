@@ -14,8 +14,8 @@ As a Web Designer, my objective is to make a positive impact on clients, co-work
 * https://github.com/Shizuku-plk/Bleach-tribute-page
 
 ## Examples of Work
-* <img src="https://user-images.githubusercontent.com/99621872/162271523-39842c38-e9f3-4247-9d87-de56933982d5.jpg" height="300">
-https://flamboyant-raman-729d6b.netlify.app/
+* <a src="https://flamboyant-raman-729d6b.netlify.app/"><img src="https://user-images.githubusercontent.com/99621872/162271523-39842c38-e9f3-4247-9d87-de56933982d5.jpg" height="300"></a>
+* 
 * <img src="https://user-images.githubusercontent.com/99621872/162268250-c979b38b-d248-468a-a6e8-9463b7cfe158.jpg" height="300">
 https://fluffy-pavlova-614188.netlify.app/
 
