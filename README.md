@@ -14,10 +14,12 @@ As a Web Designer, my objective is to make a positive impact on clients, co-work
 * https://github.com/Shizuku-plk/Bleach-tribute-page
 
 ## Examples of Work
-* ![e height="100"](https://user-images.githubusercontent.com/99621872/162268286-d0bdb54d-228b-4cbc-bcaa-95c8183b2aeb.jpg)
+* ![e](https://user-images.githubusercontent.com/99621872/162268286-d0bdb54d-228b-4cbc-bcaa-95c8183b2aeb.jpg)
 https://flamboyant-raman-729d6b.netlify.app/
 * ![b](https://user-images.githubusercontent.com/99621872/162268250-c979b38b-d248-468a-a6e8-9463b7cfe158.jpg)
 https://fluffy-pavlova-614188.netlify.app/
+
+[<img src="![e](https://user-images.githubusercontent.com/99621872/162268286-d0bdb54d-228b-4cbc-bcaa-95c8183b2aeb.jpg)" height='50'>]
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Shizuku-plk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/esteban-esquivel-5814171a7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BLsiEgvBDTNGy0p22WlDsvQ%3D%3D/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/riotgames.svg' alt='riotgames' height='40'>](Shizuku#plk)  
 
