@@ -12,10 +12,13 @@ As a Web Designer, my objective is to make a positive impact on clients, co-work
 ## 🔭 I’m currently working on:
 * https://github.com/Shizuku-plk/ee-tree-service 
 * https://github.com/Shizuku-plk/Bleach-tribute-page
+* https://github.com/Shizuku-plk/personal-portfolio
 
 ## Examples of Work
 <img src="https://user-images.githubusercontent.com/99621872/162271523-39842c38-e9f3-4247-9d87-de56933982d5.jpg" height="300">
 https://flamboyant-raman-729d6b.netlify.app/
+<img src="https://user-images.githubusercontent.com/99621872/164507829-573795ee-6bbd-4d89-8e59-562279d315ad.jpg" height="300">
+https://melodic-brigadeiros-7611cc.netlify.app/
 <img src="https://user-images.githubusercontent.com/99621872/162268250-c979b38b-d248-468a-a6e8-9463b7cfe158.jpg" height="300">
 https://fluffy-pavlova-614188.netlify.app/
 
