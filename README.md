@@ -10,7 +10,7 @@ As a Web Designer, my objective is to make a positive impact on clients, co-work
 * 💻 JavaScript
 
 ## 🔭 I’m currently working on:
-* https://github.com/Shizuku-plk/personal-portfolio-2 www.esquivelweb.site/#
+* https://github.com/Shizuku-plk/personal-portfolio-2 --> www.esquivelweb.site/#
 
 ## Examples of Work
 <img src="https://user-images.githubusercontent.com/99621872/162271523-39842c38-e9f3-4247-9d87-de56933982d5.jpg" height="300">
