@@ -1,6 +1,7 @@
 # Hi there 👋, my name is Esteban
 ## I am a Web Developer
-![image](https://user-images.githubusercontent.com/99621872/189453882-786f4038-40d8-410d-8594-2a94a40aa12a.png)
+![image](https://user-images.githubusercontent.com/99621872/189453952-5e2604d1-f553-4d83-b98b-90860cc82d17.png)
+
 
 As a Web Designer, my objective is to make a positive impact on clients, co-workers, and the internet by using my skills and experience to design attractive and compelling websites. 
 
